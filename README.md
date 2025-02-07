@@ -1,5 +1,5 @@
 ## Hi there 👋
-- ⚡ Fun fact: Chuck Norris already counted to __infinite__, actually already twice ;)
+- ⚡ Fun fact: Chuck Norris already counted to __infinity__, actually already twice ;)
 
 <!--
 **jjGG/jjGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
